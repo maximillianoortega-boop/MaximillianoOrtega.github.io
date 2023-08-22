@@ -5,7 +5,7 @@ Eric Pogue
 [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details [link](LICENSE)
 
 ## Credit
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
