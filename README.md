@@ -1,5 +1,6 @@
 # Hello World for the Web Template
-### The project provides template code for Hello World for the Web. 
+This project provides template code for Hello World for the Web and is based on 
+[W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
 
 ## Authors
 Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
@@ -11,9 +12,17 @@ Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Improvements
-Add English language and UTF-8 tags by modifying index.html so that it looks like:
+Add English language and UTF-8 tags by modifying index.html so that it looks like this:
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+	<title>Page Title</title>
+</head>
+<body>
+	<h1>This is a Heading</h1>
+	<p>This is a paragraph.</p>
+</body>
+</html>
 ```
