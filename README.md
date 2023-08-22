@@ -2,7 +2,7 @@
 This project provides template code for Hello World for the Web and is based on 
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
 
-## Authors
+## Author
 Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
 
 ## Credits
