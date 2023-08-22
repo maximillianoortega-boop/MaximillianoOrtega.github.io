@@ -11,4 +11,9 @@ Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Improvements
-
+Add English language and UTF-8 tags by modifying index.html so that it looks like:
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
